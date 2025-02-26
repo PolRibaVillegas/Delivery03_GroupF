@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7B46704F-DCC8-1A4E-E013-E821310AABB9}</ProjectGuid>
+    <ProjectGuid>{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,20 +61,24 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.33f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\InventorySystem\Inventories\ItemSlot.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Inventories\Inventory.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Items\Food\ItemFood.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\UIElements\InventorySlotUI.cs" />
+    <Compile Include="Assets\clickController.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\ItemTypes\PickUpItem.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\ItemSlot.cs" />
+    <Compile Include="Assets\buy.cs" />
     <Compile Include="Assets\Scripts\InventorySystem\Interfaces.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Items\ItemBase.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Items\PickUpItem.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Inventories\PlayerInventory.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Inventories\InventoryManager.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Scriptables\ShopInventory.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Items\Weapons\ItemWeapon.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Items\ConsumableItem.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\UIElements\InventoryUI.cs" />
-    <Compile Include="Assets\Scripts\InventorySystem\Items\Potions\ItemPotion.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\InventoryUI.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\ItemTypes\ItemBook.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\Inventory.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\PlayerInventory.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerInput.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\ItemTypes\ItemBase.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\ItemTypes\ItemPotion.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\InventorySlotUI.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\ItemTypes\ItemFruit.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\ConsumeItem.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\ItemTypes\ConsumableItem.cs" />
+    <Compile Include="Assets\Scripts\InventorySystem\ItemTypes\ItemKey.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

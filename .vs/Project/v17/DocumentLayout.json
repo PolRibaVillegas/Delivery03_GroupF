@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\mataf\\downloads\\dv_groupf\\dv_groupf\\project\\assets\\scripts\\inventorysystem\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorysystem\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\assets\\scripts\\inventorysystem\\inventoryslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorysystem\\inventoryslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\mataf\\downloads\\dv_groupf\\dv_groupf\\project\\assets\\scripts\\inventorysystem\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorysystem\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\mataf\\downloads\\dv_groupf\\dv_groupf\\project\\assets\\scripts\\inventorysystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorysystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|c:\\users\\mataf\\downloads\\dv_groupf\\dv_groupf\\project\\assets\\clickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\clickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\assets\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\assets\\scripts\\inventorysystem\\itemtypes\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorysystem\\itemtypes\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\assets\\scripts\\inventorysystem\\itemtypes\\itembook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorysystem\\itemtypes\\itembook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\InventoryUI.cs",
+              "ToolTip": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\InventoryUI.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAcwEIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:39:39.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\ItemSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\ItemSlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\ItemSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:38:46.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\Inventory.cs",
+              "ToolTip": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:38:09.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventorySlotUI.cs",
+              "DocumentMoniker": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\InventorySlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\InventorySlotUI.cs",
+              "ToolTip": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\InventorySlotUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\InventorySlotUI.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAkwFIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:34:02.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clickController.cs",
+              "DocumentMoniker": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\clickController.cs",
+              "RelativeDocumentMoniker": "Assets\\clickController.cs",
+              "ToolTip": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\clickController.cs",
+              "RelativeToolTip": "Assets\\clickController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:49:38.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemBase.cs",
+              "DocumentMoniker": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\ItemTypes\\ItemBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\ItemTypes\\ItemBase.cs",
+              "ToolTip": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\ItemTypes\\ItemBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\ItemTypes\\ItemBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:03:26.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemBook.cs",
+              "DocumentMoniker": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\ItemTypes\\ItemBook.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySystem\\ItemTypes\\ItemBook.cs",
+              "ToolTip": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\InventorySystem\\ItemTypes\\ItemBook.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySystem\\ItemTypes\\ItemBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:03:13.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "buy.cs",
+              "DocumentMoniker": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\buy.cs",
+              "RelativeDocumentMoniker": "Assets\\buy.cs",
+              "ToolTip": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\buy.cs",
+              "RelativeToolTip": "Assets\\buy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:47:40.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\mataf\\Downloads\\Dv_groupf\\Dv_groupf\\Project\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:07:49.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
